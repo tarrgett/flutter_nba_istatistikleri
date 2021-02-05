@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "237184949927",
+    "project_id": "nbaverileri-952a2",
+    "storage_bucket": "nbaverileri-952a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237184949927:android:47c41e9a6cc5dd126a8582",
+        "android_client_info": {
+          "package_name": "com.seditiosoft.flutter_nba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237184949927-iamfhc5n24n3k4onvikhc15s333nn4p2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seditiosoft.flutter_nba",
+            "certificate_hash": "ac3b9d40e730e0ca3937de7cb591149cea1eea34"
+          }
+        },
+        {
+          "client_id": "237184949927-ftvl3err8im8o0ctj3ecs645508e5kcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0HVQCImT9HTdgbYZNuR6BkqSpuLaDcAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237184949927-ftvl3err8im8o0ctj3ecs645508e5kcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
